@@ -1,0 +1,10 @@
+Entry created:  27/04/2017   16:52:13
+
+"33643160"
+{"metal": 211, "crystal": 546, "deuterium": 0, "energy": 77, "darkmatter": 0}
+{"metal_mine": 0, "crystal_mine": 3, "deuterium_synthesizer": 0, "solar_plant": 4, "fusion_reactor": 0, "solar_satellite": 0, "metal_storage": 0, "crystal_storage": 0, "deuterium_tank": 0}
+{"rocket_launcher": 0, "light_laser": 0, "heavy_laser": 0, "gauss_cannon": 0, "ion_cannon": 0, "plasma_turret": 0, "small_shield_dome": 0, "large_shield_dome": 0, "anti_ballistic_missiles": 0, "interplanetary_missiles": 0}
+{"light_fighter": 0, "heavy_fighter": 0, "cruiser": 0, "battleship": 0, "battlecruiser": 0, "bomber": 0, "destroyer": 0, "deathstar": 0, "small_cargo": 0, "large_cargo": 0, "colony_ship": 0, "recycler": 0, "espionage_probe": 0, "solar_satellite": 0}
+{"robotics_factory": 0, "shipyard": 0, "research_lab": 0, "alliance_depot": 0, "missile_silo": 0, "nanite_factory": 0, "terraformer": 0, "space_dock": 0}
+
+

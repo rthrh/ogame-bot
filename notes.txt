@@ -1,0 +1,27 @@
+Class Manager
+	-- send data to server
+	-- request buildings, defenses, fleet
+	-- send fleets to other planets
+	-- transport goods
+	-- save planet on incoming attack
+
+Class Planet
+	-- read planet information
+	-- store 1 planet
+	-- calculate stats, production based on building lvl
+	-- calculate building time and potential waiting time and building time for upcoming building and resources
+	-- create building queue	
+
+Class Researcher
+	-- track progress on research
+	-- queue/override Planet building queue
+	
+Class Defender
+	-- calculate current defense needs, based on top 100 military rank, mined resources per hour, current defenses and espionage interests of other players
+
+
+Class Spymaster
+	-- gather intel and mark possible and good farm locations
+
+Class Farmer
+	-- execute death edicts
